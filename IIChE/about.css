@@ -523,7 +523,7 @@ hr{
 */
 @media screen and (maxwidth: 770px){
 	.Single-Service{
-		.flex-basis: 100%;
+		flex-basis: 100%;
 		margin-bottom: 30px;
 	}
 	.Service-Description p{
